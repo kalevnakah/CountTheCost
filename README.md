@@ -1,7 +1,6 @@
 # CountTheCost
- Construction Bidding 
- 
-Zip File contains two files. 
+ Construction Bidding App
+
 1. accdb - Is a file that can be opened by MS Access and you can make edits to it.
 2. accr - Can be run by any computer with the Microsoft Access Runtime Library installed and acts just like a normal program. 
 
